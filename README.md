@@ -1,4 +1,4 @@
-<h2>Desenvolvimento de testes unitários para validar uma API REST de gerenciamento de estoques de cerveja.</h2>
+<h2>Desenvolvimento de testes unitários em JUnit e Mockito para validar uma API REST de gerenciamento de estoques de cerveja.</h2>
 
 Este sistema foi desenvolvido com o intuito de estudar a implementação de testes unitários com o JUnit e com o Mockito utilizando boas práticas do TDD com a API. Além disso, este foi utilizado como apresentação de projeto no BootCamp FULLSTACK da Everis, a partir da plataforma Digital Innovation One.
 
